@@ -1,0 +1,16 @@
+.home{
+    &__body{
+        width: 90%;
+        min-width: 960px;
+        max-width: 1400px;
+        margin: 15px auto;
+        display: flex;
+    }
+    .article-list{
+        flex:1;
+        margin-right: 15px;
+        background:#fff;
+        border-radius: 4px;
+    }
+
+}
